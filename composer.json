@@ -1,0 +1,9 @@
+{
+    "name": "jenny05322/passport-guard",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jenny05322\\PassportGuard\\": "src"
+        }
+    }
+}
